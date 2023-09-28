@@ -1,3 +1,9 @@
+/**
+   * @title ContractName
+   * @dev ContractDescription
+   * @custom:dev-run-script file_path
+*/
+   
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
